@@ -1,12 +1,14 @@
 # 🖥️ Sistema de Cadastro de Usuários (Full-Stack)
 
-[![GitHub license](https://img.shields.io/github/license/CaueReis/cadastro-de-usuario)](https://github.com/CaueReis/cadastro-de-usuario/blob/main/LICENSE)
-![React](https://img.shields.io/badge/React-18.x-%2361DAFB)
+![React](https://img.shields.io/badge/React-16.x-%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
 
 <div align="center">
-  <img src="frontend/public/screenshot.png" alt="Preview do Projeto" width="80%">
+  <img src="https://github.com/user-attachments/assets/5ffb4c83-bc4f-4770-bdc2-8b80ce1a5cdf" alt="Preview do Projeto" width="80%">
+  
+  <img src="https://github.com/user-attachments/assets/5f3a99ee-e3a5-4d64-87fb-af2eeceea90c" alt="Preview do Projeto" width="80%">
 </div>
+
 
 
 ## 🚀 Tecnologias
@@ -37,7 +39,6 @@ cadastro-de-usuario/
 
 ### Pré-requisitos
 - Node.js 18+
-- MongoDB (local ou Atlas)
 
 ### Backend
 
